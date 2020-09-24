@@ -37,7 +37,7 @@ ELTH_CNT_set_params;
 PTTH_PNT_set_params;
 PTTH_CNT_set_params;
 
-open_system('EV_thermal_charger_2015a_20200311.slx'); %モデルを開く
+open_system('EV_thermal_charger_2015a_jmaab_Can02.slx'); %モデルを開く
 
 %%作業フォルダに移動
 cd Working
